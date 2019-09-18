@@ -1,4 +1,6 @@
 {
   "name": "jlte-ch/ckbutton",
-  "description": "CKButton CKEditor plugin."
+  "description": "CKButton CKEditor plugin.",
+  "type": "drupal-library",
+  "license": "GPL-2.0+"
 }
